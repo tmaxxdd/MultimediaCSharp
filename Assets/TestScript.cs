@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// This is comment for first game class
 public class TestScript : MonoBehaviour
 {
     // Start is called before the first frame update
